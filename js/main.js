@@ -9,6 +9,10 @@
     }
   })
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cc952aea329a2e1da29b512ce0c5fc72cd90fd5f
 
   // Back to top button
   $(window).scroll(function() {
